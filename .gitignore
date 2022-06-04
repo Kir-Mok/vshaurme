@@ -1,7 +1,6 @@
-cat .gitignore 
 
 .idea/
 .vscode/
 .DS_Store/
-.database.sqlite3/
-.another_db.sqlite3/
+.database/
+.another_db/

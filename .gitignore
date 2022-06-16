@@ -2,5 +2,4 @@
 .idea/
 .vscode/
 .DS_Store/
-.database/
-.another_db/
+

@@ -2,6 +2,6 @@
 .idea/
 .vscode/
 .DS_Store/
-**.database/
-*.another_db/
+.database/
+.another_/db/*
 
